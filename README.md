@@ -1,2 +1,2 @@
 # E-commerce-Website-Analysis
-Conducted a full analysis of a E-Commerce Website with the help of python,SQL and Power BI to find the useful insights for the business.
+This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
